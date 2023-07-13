@@ -1,4 +1,4 @@
-# Wukong_MIKE_data
+# Wukong_MIKE/LMS1_data
 All information regarding stars from the Wukong stellar stream from spectroscopy with MIKE/Magellan.
 
 abund_data folder: final abundances for each star ([smhr](https://github.com/andycasey/smhr)/[LESSPayne](https://github.com/alexji/LESSPayne) format)
