@@ -10,3 +10,5 @@ Wukong_ALL_MIKEsample.csv: a file with almost all relevant information for the W
 wuk_master_abund_table.csv: all abundance information for all stars obtained through our analysis in a more comprehensible way and easy to deal with than smhr/LESSPayne standard. A code to generate this kinds of tables from smhr/LESSPayne outputs is available at [this repo](https://github.com/guilhermelimberg/abund-tables).
 
 Na_NLTE_corrections.csv: line-by-line NLTE corrections to the sodium abundances from [Lind+2011](https://ui.adsabs.harvard.edu/abs/2011A%26A...528A.103L/abstract).
+
+Most columns in these tables are fairly self-explanatory. However, if you want to use this data and need to make be sure regarding any quantities, contact me at guilherme.limberg @ usp.br
