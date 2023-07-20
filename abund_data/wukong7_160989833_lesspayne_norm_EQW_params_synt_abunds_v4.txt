@@ -19,6 +19,8 @@ species  elem  N ul logeps e_stat stderr logeps_w e_stat_w stderr_w e_Teff e_log
   106.0   C-H  2  0  5.746  0.028  0.020    5.747    0.028    0.288  0.331 -0.195  0.005  0.015 0.384    0.330   -0.195  0.005  0.015  0.384 -2.683 0.385   0.270  0.331   0.323  0.588  0.270 0.331
     8.0   O I  1  1  8.855    nan    nan    8.855      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan  0.165   nan   3.118    nan   3.171    nan  3.118   nan
    23.0   V I  1  1  1.766    nan    nan    1.766      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan -2.164   nan   0.790    nan   0.842    nan  0.790   nan
+   39.1  Y II  1  1  0.885    nan    nan    0.885      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan -1.325   nan   1.628    nan   1.681    nan  1.681   nan
+   40.1 Zr II  1  1  0.751    nan    nan    0.751      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan -1.829   nan   1.125    nan   1.177    nan  1.177   nan
    57.1 La II  1  1  1.153    nan    nan    1.153      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan  0.053   nan   3.006    nan   3.059    nan  3.059   nan
    63.1 Eu II  1  1 -1.234    nan    nan   -1.234      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan -1.754   nan   1.199    nan   1.252    nan  1.252   nan
   607.0   C-N  1  1  6.283    nan    nan    6.283      nan      nan    nan    nan    nan    nan   nan      nan      nan    nan    nan    nan -1.547   nan   1.406    nan   1.459    nan  1.406   nan

@@ -107,6 +107,8 @@ index wavelength species expot  loggf logeps e_stat       eqw     e_eqw   fwhm e
   525     6496.0    56.1   nan    nan -0.355  0.174 -9999.000 -9999.000  0.280  0.114  0.147 -0.068 -0.003 0.198 0.200 0.331  9.124
   484     6300.0     8.0   nan    nan  8.855    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
   506     4379.0    23.0   nan    nan  1.766    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
+  518     4884.0    39.1   nan    nan  0.885    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
+  520     4208.0    40.1   nan    nan  0.751    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
   526     4086.0    57.1   nan    nan  1.153    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
   534     4129.0    63.1   nan    nan -1.234    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
   539     3877.0   607.0   nan    nan  6.283    nan       nan       nan    nan    nan    nan    nan    nan   nan   nan   nan    nan
