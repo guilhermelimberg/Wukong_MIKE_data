@@ -2,7 +2,9 @@
 All information regarding stars from the Wukong stellar stream from spectroscopy with MIKE/Magellan.
 
 abund_data folder: final abundances for each star ([smhr](https://github.com/andycasey/smhr)/[LESSPayne](https://github.com/alexji/LESSPayne) format)
+
 line_data folder: line-by-line abundances for each star
+
 reduced_spectra: yes, the MIKE spectra reduced
 
 Wukong_ALL_MIKEsample.csv: a file with almost all relevant information for the Wukong stars coming from Gaia, spectroscopic surveys (H3 or APOGEE), and our own analysis. 
